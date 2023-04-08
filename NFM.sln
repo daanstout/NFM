@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NFM", "NFM\NFM.csproj", "{B2733B4C-D419-4BFA-B020-4BD4D2A691E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFM-Core", "NFM-Core\NFM-Core.csproj", "{614918F2-75F0-4CA4-8B12-5B429BEB912B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2733B4C-D419-4BFA-B020-4BD4D2A691E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2733B4C-D419-4BFA-B020-4BD4D2A691E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2733B4C-D419-4BFA-B020-4BD4D2A691E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2733B4C-D419-4BFA-B020-4BD4D2A691E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614918F2-75F0-4CA4-8B12-5B429BEB912B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614918F2-75F0-4CA4-8B12-5B429BEB912B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614918F2-75F0-4CA4-8B12-5B429BEB912B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614918F2-75F0-4CA4-8B12-5B429BEB912B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3540D9B8-69B3-4627-8339-799766EE9CAA}
+	EndGlobalSection
+EndGlobal
